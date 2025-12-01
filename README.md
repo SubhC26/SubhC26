@@ -1,43 +1,66 @@
-# Greetings! 👋 I'm Subhankit
+# 👋 Hi, I'm **Subhankit Choudhury**
 
-### Visionary Full Stack Web Craftsman | Forever Curious Explorer
+### 🚀 MLOps Engineer | ML Pipelines • CI/CD • Cloud • Model Deployment
 
-Welcome to the digital realm where I craft the future with code. I'm a tech explorer with a relentless passion for creating exceptional software experiences. Join me on a voyage where ideas morph into extraordinary realities.
+I work on building **reliable, reproducible and scalable ML systems** — from training pipelines to production deployments.  
+My focus is on combining solid machine learning foundations with strong DevOps practices to deliver end-to-end automation.
 
-<img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
+I enjoy:
+- Designing ML pipelines that are modular and reproducible  
+- Automating training, evaluation and deployment  
+- Building containerized ML services  
+- Working with cloud platforms and modern orchestration tools  
 
-- 🌌 Unveiling the secrets of **Full Stack Mastery**
-- 🚀 Pioneering the frontiers of **Cutting-edge Technologies**
-- 🤖 Collaborating on projects that redefine **Innovation**
-- 🧰 Seeking tools and insights for **Web Alchemy**
-- 💻 Discover my crafted projects on [GitHub](https://github.com/SubhC26/SubhC26?tab=repositories)
-- 💡 Dive into discussions on **Web Development, HTML, CSS, JavaScript, MySQL, PHP, MERN, AI**
-- ✉️ Reach out to me at **rsubhankit@gmail.com**
-- 📚 Get to know my journey on [LinkedIn](https://www.linkedin.com/in/subhankit-choudhury-6aa5941b3/)
-- ⚡ Fun fact: **I once debugged code in my dream and woke up with a solution!**
+---
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhankit-blue)](https://www.linkedin.com/in/subhankit-choudhury-6aa5941b3/)
-[![Twitter](https://img.shields.io/badge/Twitter-Subhankit-blue)]()
-[![Instagram](https://img.shields.io/badge/Instagram-subhankit.dev-orange)](https://www.instagram.com/subhc26/)
+## 🔧 **Core Skills**
 
-## Languages and Tools
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg)
-![MySQL](https://img.shields.io/badge/MySQL-%2314354C.svg)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg)
-![C](https://img.shields.io/badge/C-%2300599C.svg)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg)
-![Node.js](https://img.shields.io/badge/Node.js-%234ea94b.svg)
+### **MLOps / ML Engineering**
+- MLflow • DVC • Model Registry  
+- Experiment Tracking & Metrics  
+- Training / Evaluation Pipelines (scikit-learn, Python)  
+- FastAPI for model serving  
+- Feature engineering and preprocessing pipelines
 
+### **DevOps / Infrastructure**
+- Docker • Docker Compose  
+- GitHub Actions (CI/CD)  
+- Linux & Shell scripting  
+- AWS (S3, EC2, IAM, ECR basics)  
+- Monitoring basics (Prometheus/Grafana)
 
-## 📊 GitHub Statistics:
+### **Programming**
+- Python  
+- Bash  
+- Basic SQL  
 
-| GitHub Stats | GitHub Streak | Top Languages |
-| --- | --- | --- |
+---
+
+## 📂 **Current Work**
+- Building end-to-end ML pipelines with tracking & versioning  
+- Deploying ML microservices with FastAPI + Docker  
+- Automating workflows with CI/CD  
+- Learning and exploring scalable inference, vector search and advanced pipeline orchestration
+
+---
+
+## 📚 **GitHub Projects**
+> *(Add your real repos here later — the section is ready for you)*  
+- 🔹 **End-to-End ML Pipeline (MLflow + Docker + FastAPI)**  
+- 🔹 **DVC-based data versioning demo**  
+- 🔹 **Model deployment service with CI/CD**  
+
+---
+
+## 📊 **GitHub Stats**
+
+| Stats | Streak | Languages |
+|-------|--------|------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhC26&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubhC26&theme=radical&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhC26&theme=radical&hide_border=false&layout=compact) |
+
+---
+
+## 🔗 **Connect With Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhankit-blue)](https://www.linkedin.com/in/subhankit-choudhury-6aa5941b3/)  
+📩 **Email:** rsubhankit@gmail.com
